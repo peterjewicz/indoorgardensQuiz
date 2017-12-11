@@ -1,0 +1,14 @@
+{
+  "name": "base_template",
+  "version": "1.0.0",
+  "description": "Base Template For Front End Development",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-sass": "*",
+    "matchdep": "*"
+  },
+  "author": "Peter Jewicz",
+  "license": "ISC"
+}
